@@ -30,10 +30,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-.section {
-  width: 1440px;
-  margin: 0 auto;
-}
+
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -173,6 +170,8 @@ img {
 }
 /* --------hero----------- */
 .hero {
+  max-width: 1440px;
+  margin: 0 auto;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
